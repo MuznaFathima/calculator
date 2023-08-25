@@ -1,0 +1,47 @@
+
+*{
+
+   
+}
+
+#calculator-container{
+
+   
+    height: 600px;
+    width: 100%;
+    
+    background-image: url('https://media.istockphoto.com/id/1419844586/vector/stem-blue-horizontal-frame-vector-education-bright-illustration.jpg?s=612x612&w=0&k=20&c=-A1eYLYulujNsiM26lkVy7qMT_Hp82N5EtKHSFRmigk=');
+    background-size: contain;
+    
+}
+
+
+#result{
+
+    width: 220px;
+    height: 50px;
+    border: 1px solid red;
+    border-radius: 5px;
+    
+    
+   
+}
+
+#keys{
+
+    width: 70px;
+    height: 50px;
+}
+#calc{
+    margin-top: 120px;
+    margin-bottom: 120px;
+    padding: 20px;
+  background: transparent;
+   
+}
+table{
+   
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
